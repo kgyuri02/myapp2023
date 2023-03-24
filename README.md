@@ -1,3 +1,3 @@
 # myapp2023
-my first repository on GitHub
+my first repository on GitHub,
 some information
